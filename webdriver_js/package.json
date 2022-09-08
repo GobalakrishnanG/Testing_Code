@@ -4,7 +4,7 @@
   "description": "Sample Tests",
   "main": "test.js",
   "dependencies": {
-    "exceljs": "^1.4.8",
+    "exceljs": "^1.15.0",
     "mysql": "^2.15.0",
     "nodemailer": "^4.4.1",
     "selenium-webdriver": "^4.0.0-alpha.1"
